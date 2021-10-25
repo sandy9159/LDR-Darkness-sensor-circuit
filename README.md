@@ -48,6 +48,21 @@ BC547 is an NPN bi-polar junction transistor. A transistor, stands for transfer 
 
 BC547 is mainly used for amplification and switching purposes. It has a maximum current gain of 800. Its equivalent transistors are BC548 and BC549. data sheet
 
+50K ohm resistor one end is connected with Positive (9V) of battery and other end is connected in series with LDR and LDR another point is connected with negative of battery
+
+here in video I have used 2 100Kohm resistor in parallel because i dont have 50K one.
+
+1K OHM resistor one end is connected with Positive (9V) of battery and other end is connected with anode (positive) of LED
+
+Cathode (negative) of LED is Connected with C (collectr) of BC 547 Transistor
+
+Emitter (E) of transistor is connected with the negative of battery
+
+Base (B) is connected Junction point of the 50K resistor & LDR
+
+it is a simple and powerful concept , which uses transistor ( BC 547 NPN) as a switch to switch ON and OFF the LED LIGHT automatically .
+It automatically switches ON lights when the light goes below the visible region of our eyes. ( e.g in evening after Sunset ). it automatically switches OFF lights when light fall on it ( e.g in morning ) , by using a sensor called LDR (Light Dependent Resistor) which senses the light just like our eyes.
+
 # VIDEO
 
 Here is the video of project in action, you can watch the video and for more details continue to read the post.
