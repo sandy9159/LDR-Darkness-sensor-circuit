@@ -20,6 +20,33 @@ In dark its resistance is high as several mega ohm, and in light its down to few
 
 This change in resistance of LDR will detect by a circuit and it will turn on LED accordingly, we will see such type of circuit in below examples.
 
+![image](https://user-images.githubusercontent.com/19898602/138692279-a341be64-6566-435c-bf53-9f67de749a03.png)
+
+
+LDR is a photoresistor is a light-controlled variable resistor.
+
+The resistance of a photoresistor decreases with increasing incident light intensity,
+
+in other words, it exhibits photoconductivity.
+
+A photoresistor can be applied in light-sensitive detector circuits, and light- and dark-activated switching circuits.
+
+
+![image](https://user-images.githubusercontent.com/19898602/138692365-84746b06-baac-43e3-bde1-c9f262302ad2.png)
+
+
+A photoresistor is made of a high resistance semiconductor.
+
+In the dark, a photoresistor can have a resistance as high as several megohms (MΩ),
+
+while in the light, a photoresistor can have a resistance as low as a few hundred ohms.
+
+![image](https://user-images.githubusercontent.com/19898602/138692406-0eb9e5b1-5fcb-4df6-ae54-236aa2b8a246.png)
+
+
+BC547 is an NPN bi-polar junction transistor. A transistor, stands for transfer of resistance, is commonly used to amplify current. A small current at its base controls a larger current at collector & emitter terminals.
+
+BC547 is mainly used for amplification and switching purposes. It has a maximum current gain of 800. Its equivalent transistors are BC548 and BC549. data sheet
 
 # VIDEO
 
